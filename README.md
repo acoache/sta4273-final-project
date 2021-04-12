@@ -1,6 +1,6 @@
 # STA4273 Project Repository
 
-Final report and code for the [STA4273 course](https://www.cs.toronto.edu/~cmaddis/courses/sta4273_w21/) at the University of Toronto, taught by [Chris Maddison](https://www.cs.toronto.edu/~cmaddis/). [Blair Bilodeau](https://github.com/blairbilodeau) and I have worked on our project, **Methods for Adding Explicit Uncertainty to Deep Q-Learning** on a private repository. This repository contains only the cleaned version of our code and final version of our report.
+Final code and report for the [STA4273 course](https://www.cs.toronto.edu/~cmaddis/courses/sta4273_w21/) at the University of Toronto, taught by [Chris Maddison](https://www.cs.toronto.edu/~cmaddis/). [Blair Bilodeau](https://github.com/blairbilodeau) and I have worked on our project, **Methods for Adding Explicit Uncertainty to Deep Q-Learning**, in a private repository. This repository contains only the cleaned version of our code and final version of our report.
 
 ## Abstract
 
